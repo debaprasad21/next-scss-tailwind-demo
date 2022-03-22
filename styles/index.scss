@@ -1,0 +1,15 @@
+@import "~tailwindcss/base";
+@import "~tailwindcss/components";
+@import "~tailwindcss/utilities";
+
+@layer components {
+  .head-1 {
+    @apply text-xl font-sans;
+  }
+  .head-2 {
+    @apply text-lg font-sans;
+  }
+  .head-3 {
+    @apply text-base font-sans;
+  }
+}
