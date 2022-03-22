@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Header from "../components/header";
+import Banner from "../components/banner";
 
 export default function Home() {
   return (
@@ -12,7 +13,7 @@ export default function Home() {
 
       <main>
         <Header />
-        <h1 className="text-red-500">text-red-500</h1>
+        <Banner />
       </main>
     </div>
   );
