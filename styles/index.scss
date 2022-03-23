@@ -1,6 +1,6 @@
-@import "~tailwindcss/base";
-@import "~tailwindcss/components";
-@import "~tailwindcss/utilities";
+@import '~tailwindcss/base';
+@import '~tailwindcss/components';
+@import '~tailwindcss/utilities';
 
 @layer components {
   .head-1 {
@@ -11,5 +11,9 @@
   }
   .head-3 {
     @apply text-base font-sans;
+  }
+
+  .heading-1 {
+    @apply text-6xl font-sans text-primary-blue-magnus hover:text-primary-blue-midnight;
   }
 }
