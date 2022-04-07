@@ -1,0 +1,15 @@
+{
+  "primary": {
+    "black": "#262626",
+    "white": "#FFFFFF",
+    "red": {
+      "persian": "#d32f2f"
+    },
+    "blue": {
+      "midnight": "#002171",
+      "magnus": "#003c8f",
+      "100": "#0099cc",
+      "200": "#007da9"
+    }
+  }
+}
