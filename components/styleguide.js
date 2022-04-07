@@ -1,20 +1,15 @@
-import Stack from '@mui/material/Stack';
-import Button from '@mui/material/Button';
+import Button from './../common/button';
+import Accordion from './../common/accordion';
 
 const Styleguide = () => {
   return (
-    <div className="container mt-36">
-      <Stack spacing={2} direction="row">
-        <Button
-          variant="text"
-          className="text-primary-red-persian hover:text-primary-blue-midnight"
-        >
-          Text
-        </Button>
-        <Button variant="contained" className="bg-primary-red-persian text-primary-white">
-          Contained
-        </Button>
-      </Stack>
+    <div className="container mt-5 lg:mt-24 mb-10">
+      {/* <Stack spacing={2} className="mb-10"> */}
+      <p className="mt-10">Button</p>
+      <Button />
+      {/* </Stack> */}
+      <p className="mt-10">Accordion</p>
+      <Accordion />
     </div>
   );
 };

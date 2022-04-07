@@ -1,23 +1,19 @@
+const styleConstants = require('./styles/constants.json');
+
 module.exports = {
-  purge: ['./components/**/*.js', './pages/**/*.js'],
+  purge: ['./components/**/*.js', './pages/**/*.js', './common/**/*.js'],
   theme: {
     extend: {
       inset: {
         negative48: '-48px',
       },
+      minWidth: {
+        '1/2': '50%',
+        200: '200px',
+      },
     }, // use of extend is to add some additional properties keeping the original config intact.
     colors: {
-      primary: {
-        black: '#000000',
-        white: '#FFFFFF',
-        red: {
-          persian: '#d32f2f',
-        },
-        blue: {
-          midnight: '#002171',
-          magnus: '#003c8f',
-        },
-      },
+      primary: styleConstants.primary,
     },
     container: {
       center: true,
