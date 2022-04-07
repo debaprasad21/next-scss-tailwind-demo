@@ -1,6 +1,7 @@
-import Head from "next/head";
-import Header from "../components/header";
-import Banner from "../components/banner";
+import Head from 'next/head';
+import Header from '../components/header';
+import Banner from '../components/banner';
+import Styleguide from '../components/styleguide';
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <main>
         <Header />
         <Banner />
+        <Styleguide />
       </main>
     </div>
   );
