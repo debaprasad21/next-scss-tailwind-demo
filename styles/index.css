@@ -4,10 +4,10 @@
 
 @layer components {
   .head-1 {
-    @apply text-xl font-sans;
+    @apply text-xl font-sans font-bold;
   }
   .head-2 {
-    @apply text-lg font-sans;
+    @apply text-lg font-sans font-bold;
   }
   .head-3 {
     @apply text-base font-sans;

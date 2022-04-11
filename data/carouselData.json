@@ -1,0 +1,83 @@
+[
+  {
+    "slide": 1,
+    "details": [
+      {
+        "heading": "Lamborghini",
+        "description": "lamborghini.com. Automobili Lamborghini S.p.A. (Italian pronunciation: [autoˈmɔːbili lamborˈɡiːni]) is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese.",
+        "imgSrc": "lamborghini",
+        "url": "https://en.wikipedia.org/wiki/Lamborghini"
+      },
+      {
+        "heading": "Mercedes McLaren",
+        "description": "The Mercedes-Benz SLR McLaren (C199 / R199 / Z199) is a grand tourer jointly developed by German automotive manufacturer Mercedes-Benz and British automobile manufacturer McLaren Automotive and sold from 2003 to 2009.",
+        "imgSrc": "mercedes",
+        "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_SLR_McLaren"
+      },
+      {
+        "heading": "Buggati",
+        "description": "The Bugatti Veyron EB 16.4 is a mid-engine sports car, designed and developed in France by the Volkswagen Group and Bugatti and manufactured in Molsheim, France, by French automobile manufacturer Bugatti. It was named after the racing driver Pierre Veyron.",
+        "imgSrc": "buggati",
+        "url": "https://en.wikipedia.org/wiki/Bugatti"
+      },
+      {
+        "heading": "Ferrari",
+        "description": "Ferrari S.p.A. (/fəˈrɑːri/; Italian: [ferˈraːri]) is an Italian luxury sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 1939 from the Alfa Romeo racing division as Auto Avio Costruzioni, the company built its first car in 1940, and produced its first Ferrari-badged car in 1947.",
+        "imgSrc": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Ferrari"
+      }
+    ]
+  },
+  {
+    "slide": 2,
+    "details": [
+      {
+        "heading": "Buggati",
+        "description": "The Bugatti Veyron EB 16.4 is a mid-engine sports car, designed and developed in France by the Volkswagen Group and Bugatti and manufactured in Molsheim, France, by French automobile manufacturer Bugatti. It was named after the racing driver Pierre Veyron.",
+        "imgSrc": "buggati",
+        "url": "https://en.wikipedia.org/wiki/Bugatti"
+      },
+      {
+        "heading": "Ferrari",
+        "description": "Ferrari S.p.A. (/fəˈrɑːri/; Italian: [ferˈraːri]) is an Italian luxury sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 1939 from the Alfa Romeo racing division as Auto Avio Costruzioni, the company built its first car in 1940, and produced its first Ferrari-badged car in 1947.",
+        "imgSrc": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Ferrari"
+      },
+      {
+        "heading": "Lamborghini",
+        "description": "lamborghini.com. Automobili Lamborghini S.p.A. (Italian pronunciation: [autoˈmɔːbili lamborˈɡiːni]) is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese.",
+        "imgSrc": "lamborghini",
+        "url": "https://en.wikipedia.org/wiki/Lamborghini"
+      },
+      {
+        "heading": "Mercedes McLaren",
+        "description": "The Mercedes-Benz SLR McLaren (C199 / R199 / Z199) is a grand tourer jointly developed by German automotive manufacturer Mercedes-Benz and British automobile manufacturer McLaren Automotive and sold from 2003 to 2009.",
+        "imgSrc": "mercedes",
+        "url": "https://en.wikipedia.org/wiki/Mercedes-Benz_SLR_McLaren"
+      }
+    ]
+  },
+  {
+    "slide": 3,
+    "details": [
+      {
+        "heading": "Buggati",
+        "description": "The Bugatti Veyron EB 16.4 is a mid-engine sports car, designed and developed in France by the Volkswagen Group and Bugatti and manufactured in Molsheim, France, by French automobile manufacturer Bugatti. It was named after the racing driver Pierre Veyron.",
+        "imgSrc": "buggati",
+        "url": "https://en.wikipedia.org/wiki/Bugatti"
+      },
+      {
+        "heading": "Ferrari",
+        "description": "Ferrari S.p.A. (/fəˈrɑːri/; Italian: [ferˈraːri]) is an Italian luxury sports car manufacturer based in Maranello, Italy. Founded by Enzo Ferrari in 1939 from the Alfa Romeo racing division as Auto Avio Costruzioni, the company built its first car in 1940, and produced its first Ferrari-badged car in 1947.",
+        "imgSrc": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Ferrari"
+      },
+      {
+        "heading": "Lamborghini",
+        "description": "lamborghini.com. Automobili Lamborghini S.p.A. (Italian pronunciation: [autoˈmɔːbili lamborˈɡiːni]) is an Italian brand and manufacturer of luxury sports cars and SUVs based in Sant'Agata Bolognese.",
+        "imgSrc": "lamborghini",
+        "url": "https://en.wikipedia.org/wiki/Lamborghini"
+      }
+    ]
+  }
+]
