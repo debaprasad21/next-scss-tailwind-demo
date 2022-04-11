@@ -18,7 +18,7 @@ const Banner = () => {
       <div className="relative lg:absolute lg:bottom-negative48 lg:left-1/4 lg:right-1/4 bg-primary-white w-50 z-10 text-center shadow-lg p-8 rounded-sm">
         <p className="heading-1 mb-8">Welcome</p>
         <p className="text-primary-black head-1 mb-6">A Demo App in NextJS</p>
-        <p className="text-primary-black head-1">NextJS SASS Tailwind</p>
+        <p className="text-primary-black head-1">NextJS Material UI Tailwind</p>
       </div>
     </div>
   );
