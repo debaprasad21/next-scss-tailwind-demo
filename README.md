@@ -24,8 +24,18 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Learn tailwind](https://tailwindcss.com) - a utility-first CSS framework.
+- [Learn Material UI](https://mui.com) - a comprehensive suite of UI tools to help you ship new features faster.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+## Install tailwind
+
+npm install tailwindcss@latest postcss-flexbugs-fixes postcss-preset-env postcss-import precss -D
+
+## Install Material UI
+
+npm install @mui/material @emotion/react @emotion/styled
 
 ## Deploy on Vercel
 
